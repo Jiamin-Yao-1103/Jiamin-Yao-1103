@@ -1,16 +1,22 @@
-## Hi there 👋
+# Jiamin Yao
 
-<!--
-**Jiamin-Yao-1103/Jiamin-Yao-1103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Undergraduate Student at Jilin University**
 
-Here are some ideas to get you started:
+📍 Jilin University, China
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I am an undergraduate student at Jilin University, interested in computer vision and 3D scene representation.
+
+## Research Interests
+
+- 3D Gaussian Splatting (3DGS)
+- Computer Vision
+- 3D Reconstruction
+- Neural Rendering
+- 3DGS Security and Watermarking
+
+## Contact
+
+- **Email:** yaojiamin6x@gmail.com
+- **GitHub:** https://github.com/Jiamin-Yao-1103
